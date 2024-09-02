@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://220101120156:Nanna1432@springboot.44yz8.mongodb.net/?retryWrites=true&w=majority&appName=Springboot
+      database: Student
